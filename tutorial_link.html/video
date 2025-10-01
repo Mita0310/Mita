@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Video di HTML</title>
+</head>
+<body style="background-image: url(pita\ love.jpg);">
+  <h1>Video di HTML</h1>
+  <p>
+    <a href="index.html" title="Go to Home" style="color:blue">Home</a> |
+          <a href="contact.html" title="Go to Contact" style="color:brown">Contact</a> |
+          <a href="about.html" title="Go to About" style="color:deeppink;">About</a> |
+          <a href="download.html" style="color:white;background-color:blueviolet;">Download</a>
+          <a href="form.html" style="color:black;background-color:pink;">form</a>
+          <a href="form.html" style="color:white;background-color:plum;">Elemen</a>
+          <a href="form.html" style="color:white;background-color:fuchsia;">Video</a>
+  </p>
+  <meta charset="UTF-8">
+  <title>Video di HTML</title>
+</head>
+<body>
+    <h1>video gif</h1>
+    <video tutorial_link.html/i love you.mp4>
+        <source src="cat-herd.webm" type="video/webm" />
+        <source src="gif.mp4" type="video/mp4" />
+  </video>
+</body>
+</html>

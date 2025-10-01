@@ -1,4 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Contoh Elemen Semantik</title>
+</head>
 <p>
+    <a href="index.html" title="Go to Home" style="color:blue">Home</a> |
+          <a href="contact.html" title="Go to Contact" style="color:brown">Contact</a> |
+          <a href="about.html" title="Go to About" style="color:deeppink;">About</a> |
+          <a href="download.html" style="color:white;background-color:blueviolet;">Download</a>
+          <a href="form.html" style="color:black;background-color:pink;">form</a>
+          <a href="form.html" style="color:white;background-color:plum;">Elemen</a>
+          <a href="form.html" style="color:white;background-color:fuchsia;">Video</a>
+</p>
+<body style="background-image: url(pita\ love.jpg)>
+
+  <article>
+    <header style="background-color: palevioletred;">
+    <h1>Waktu di HTML</h1>
+    </header><p>
       Ditulis pada <time datetime="2020-20-07">24 September 2025</time>
     </p>
     <p>
@@ -53,6 +74,5 @@
         <footer style="background-color:white;">
         Copyright &copy; 2025 by Mita Sugiarti
     </footer>
-
 </body>
 </html>
