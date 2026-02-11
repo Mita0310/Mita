@@ -11,7 +11,7 @@ if ($umur < 16 ){
 
 <?php
 
-$nilai = 88;
+$nilai = 100;
 
 if ($nilai > 90) {
     $grade = "A+";
